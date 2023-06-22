@@ -2,12 +2,11 @@
 
 
 ###about me:
-```
-+I'm currently a student at the UST university 3y
+
++I'm currently a student at the UST University 3y
 +I love challenges 
 +working in groups is the best thing
 
-```
 
 ##my current skills:
 ```
@@ -32,18 +31,3 @@
 
 ```
 
-<!--
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
