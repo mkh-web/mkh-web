@@ -6,7 +6,7 @@
 ## about me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif">
 
-+ I'm currently a student at [UST](https://ust.edu) University 3y 👨‍🎓
++ I'm currently a student at [UST](https://ust.edu) University 4y 👨‍🎓
 + I love challenges 💪
 + Working in groups is the best thing
 + I will always welcome any new updates in the tech
