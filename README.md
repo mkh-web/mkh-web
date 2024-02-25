@@ -37,10 +37,10 @@
 
 # Where to find me:
 
-<a href="https://twitter.com/Mr_oXD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MR_oXD" height="30" width="40" /></a>
+<a href="https://twitter.com/mohnd_khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MR_oXD" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mkh.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkh_web" height="30" width="40" /></a>
 
-+ mohnd.khalid2001@gmail.com
++ mis.mdev@gmail.com
 
 ### more will be coming in the future
 
