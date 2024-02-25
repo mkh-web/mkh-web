@@ -28,11 +28,12 @@
 
 
 
-### personal skills
+### soft skills
  
 + problem-solving 💻
 + Project management ✍
 + Communication skills 📱
++ good team leader 👨‍💻
 
 
 # Where to find me:
