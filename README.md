@@ -6,11 +6,11 @@
 ## about me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif">
 
-+ I'm currently a student at [UST](https://ust.edu) University 4y 👨‍🎓
++ I'm graduate from [UST](https://ust.edu) University || Major : MIS 👨‍🎓
 + I love challenges 💪
-+ Working in groups is the best thing
++ Working in groups is the best thing for me
 + I will always welcome any new updates in the tech
-+ I’m currently learning **js**
++ I’m currently learning **next js**
 
 ## My current skills:
 
