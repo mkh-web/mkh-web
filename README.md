@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi, my name is mohnd 👋||😄 السلام عليكم و رحمة الله معاكم اخوكم مهند</h1>
-<p align="center">a web developer that loves doing front-end interfaces 👨‍💻</p>
+<p align="center">a  developer that loves creating new tools and interfaces 👨‍💻</p>
 
 
 ## about me:
