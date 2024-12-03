@@ -4,7 +4,6 @@
 
 
 ## about me:
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/c42cd0d9a7d64036de93a1b12d3845bf.gif">
 
 + I'm graduate from [UST](https://ust.edu) University || Major : MIS 👨‍🎓
 + I love challenges 💪
